@@ -16,7 +16,7 @@
 
 ## 👨‍💻 Sobre mí
 
-Soy **ingeniero en Sistemas Computacionales y docente universitario**. Disfruto enseñar programación desde sus fundamentos y convertir problemas cotidianos en soluciones tecnológicas comprensibles, prácticas y útiles.
+Soy **Ingeniero en Sistemas Computacionales, con Maestría en TIC y orgullosamente docente universitario**. Disfruto enseñar programación desde sus fundamentos y convertir problemas cotidianos en soluciones tecnológicas comprensibles, prácticas y útiles.
 
 Mi trabajo combina la **formación de estudiantes**, el **desarrollo de aplicaciones** y la **experimentación con electrónica e Internet de las Cosas (IoT)**. Me interesa especialmente crear proyectos que conecten el software con el mundo físico.
 
